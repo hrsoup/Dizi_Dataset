@@ -1,1 +1,2 @@
 # Dizi_Dataset
+该数据集包含了word格式和MusicXML两种格式。暂时只将word版本部分开源，MusicXML版本及数据集具体说明会在后续给出。
