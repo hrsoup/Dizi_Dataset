@@ -1,4 +1,4 @@
-# A Symbolic Dizi (Chinese Bamboo Flute) Dataset in MusicXML format
+# 一个MusicXML格式的竹笛数据集 | A Symbolic Dizi (Chinese Bamboo Flute) Dataset in MusicXML format
 
 
 
